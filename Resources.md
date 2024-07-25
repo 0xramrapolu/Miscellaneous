@@ -1,4 +1,4 @@
-## This is a Readme for Resources.
+## Useful Resources.
 
 ### Oracles(Integration)
   - [Band Protocol](https://www.bandprotocol.com/)

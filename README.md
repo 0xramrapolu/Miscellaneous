@@ -27,3 +27,9 @@ This is some general stuff that will be useful for reading.
 
 ### Encoding/Deconding/ABI.encode/decode/packed
   - https://openchain.xyz/
+
+### Code Kata
+  - [100DaysOfCode](https://www.100daysofcode.com/)
+  - [Encode Club](https://www.encode.club/)
+  - [Code Wars](https://www.codewars.com/dashboard)
+    

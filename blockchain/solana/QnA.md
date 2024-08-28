@@ -15,3 +15,10 @@
      - See these instructions for Windows [https://forge.rust-lang.org/infra/other-installation-methods.html]
      - Alternatively use gitpod for a linux environment [https://gitpod.io/#/https://github.com/ExtropyIO/SolanaBootcamp]
 
+### NFT's
+Follow the instructions from the lesson and use the spl-token-cli to create
+
+a) A fungible token with a supply of 10,000
+b) An NFT
+Try sending these tokens to others in your team , and use the command line to find details about the tokens.
+Try sending using both the transfer and transfer --fund-recipient approach.

@@ -27,23 +27,23 @@
  - DeFi Introduction
  - DeFi on Solana
  - Tokens on Solana
-## [Lesson 7] (https://bootcampnotes.xyz/solana/lesson7.html)
+## [Lesson 7](https://bootcampnotes.xyz/solana/lesson7.html)
  - Solana Programs continued
  - PDAs
-## [Lesson 8] (https://bootcampnotes.xyz/solana/lesson8.html)
+## [Lesson 8](https://bootcampnotes.xyz/solana/lesson8.html)
  - Authority and Ownership
  - Upgrading Programs
  - Program Flow
  - PDAs in practice
-## [Lesson 9] (https://bootcampnotes.xyz/solana/lesson9.html)
+## [Lesson 9](https://bootcampnotes.xyz/solana/lesson9.html)
  - Interface Definition Language
  - Cross Program Invocation (CPI)
  - Anchor Introduction
-## [Lesson 10] (https://bootcampnotes.xyz/solana/lesson10.html)
+## [Lesson 10](https://bootcampnotes.xyz/solana/lesson10.html)
  - Web3 Libraries
-## [Lesson 11] (https://bootcampnotes.xyz/solana/lesson11.html)
+## [Lesson 11](https://bootcampnotes.xyz/solana/lesson11.html)
  - UI Development
-## [Lesson 12] (https://bootcampnotes.xyz/solana/lesson12.html)
+## [Lesson 12](https://bootcampnotes.xyz/solana/lesson12.html)
  - Solana Program Library
  - Blockchain governance
  - Solana Pay
@@ -51,17 +51,17 @@
  - Inscriptions
  - NFTs introduction
  - DeFi continued
-## [Lesson 13] (https://bootcampnotes.xyz/solana/lesson13.html)
+## [Lesson 13](https://bootcampnotes.xyz/solana/lesson13.html)
  - Token 2022 Program
  - Interoperability / L2 solutions
  - Confidential Tokens
  - Security
-## [Lesson 14] (https://bootcampnotes.xyz/solana/lesson14.html)
+## [Lesson 14](https://bootcampnotes.xyz/solana/lesson14.html)
  - Privacy on Solana
  - Anchor design examples
  - Versioned transactions
  - Solidity and other languages
-## [Lesson 15] (https://bootcampnotes.xyz/solana/lesson15.html)
+## [Lesson 15](https://bootcampnotes.xyz/solana/lesson15.html)
  - Compressed NFTs
  - Debugging Solana Programs
  - Pyth Oracle Network
@@ -73,7 +73,7 @@
  - Identity Solutions
  - MEV
  - Commitment Levels in Transactions
-## [Lesson 16] (https://bootcampnotes.xyz/solana/lesson16.html)
+## [Lesson 16](https://bootcampnotes.xyz/solana/lesson16.html)
  - Wallets
  - Airdrops
  - Blinks and Actions

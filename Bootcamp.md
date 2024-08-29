@@ -1,6 +1,6 @@
 # Encode Club - Solana Bootcamp Course (https://bootcampnotes.xyz/solana/#/]
- - **Lessions** (https://bootcampnotes.xyz/solana/#/1]
- - **Excercises** (https://bootcampnotes.xyz/solana/#/2]
+ - [**Lessions**](https://bootcampnotes.xyz/solana/#/1)
+ - [**Excercises**](https://bootcampnotes.xyz/solana/#/2)
 
 ## [Lesson 1](https://bootcampnotes.xyz/solana/lesson1.html)
  - Decentralised Systems
